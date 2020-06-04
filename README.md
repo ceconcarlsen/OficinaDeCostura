@@ -1,4 +1,12 @@
 # OficinaDeCostura
-David Ono/Gabriel Cecon
 
-Site voltado para Oficina
+Site voltado para Oficina da ( ... )
+
+#Print da Tela
+
+
+
+# Contribuitors
+:boy: David Ono
+:boy: Gabriel Cecon
+
