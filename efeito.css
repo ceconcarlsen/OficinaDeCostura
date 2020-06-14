@@ -1,0 +1,23 @@
+	body{
+		background-color: white;
+		margin: 0;
+	}
+	header{
+		background-color: rgba(255, 0, 0, 0.4);
+		width: 30%;
+		height: 722px;
+		float: left;
+	}
+	img{
+		margin-top: 15px;
+		height: 150px;
+		width: 150px;  
+		float: left;
+		}
+
+	nav{
+		background-color: rgba(255, 140, 0, 0.3);
+		width: 70%;
+		height: 722px;
+		float: left;
+	}
